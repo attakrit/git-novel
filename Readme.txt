@@ -1,2 +1,2 @@
 มะม่วงหาวมะนาวโห่
-FLIPCHART
+DATABASE  hav a value "FLIPCHART"
