@@ -1,2 +1,3 @@
-มะม่วงหาวมะนาวโห่
-DATABASE  hav a value "FLIPCHART"
+นกพิราบ เกาะ บนต้น มะม่วงหาวมะนาวโห่ NOT IN
+DATABASE  hav a value "FLIPCHART" เอย
+
